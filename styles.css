@@ -152,16 +152,6 @@ img {
   display: block;
   margin: inherit auto; }
 
-/* Configuration
-   ========================================================================== */
-/* Mixins
-   ========================================================================== */
-/* Calculations
-   ========================================================================== */
-/* Mixins
-   ========================================================================== */
-/* Font themes
-   ========================================================================== */
 /* Defaults
    ========================================================================== */
 html {
@@ -176,8 +166,6 @@ html {
   margin: 0px 0px 26px;
   margin: 0rem 0rem 1.625rem; }
 
-/* Paragraph
-   ========================================================================== */
 /* Headings
    ========================================================================== */
 h1 {
@@ -532,7 +520,7 @@ h1 small {
   transform: rotate(-20deg); }
 
 .panel-box {
-  background-image: url(/img/tiny_grid.png);
+  background-image: url(./images/bg2.png);
   border: 1px solid #999;
   border-radius: 3px;
   padding: 1rem;
@@ -656,7 +644,7 @@ h1 small {
   margin-top: auto; }
 
 .example-layout {
-  background-image: url(/img/tiny_grid.png);
+  background-image: url(./images/bg2.png);
   border: 1px solid #999;
   border-radius: 3px;
   padding: 1rem; }
@@ -684,7 +672,7 @@ h1 a:link, h1 a:visited, h1 a:hover, h1 a:visited:hover, h1 a:visited {
   padding: 0; }
 
 .card-listing li {
-  background-image: url(/img/tiny_grid.png);
+  background-image: url(./images/bg2.png);
   border: 1px solid #999;
   border-radius: 3px;
   margin-bottom: 2rem;
